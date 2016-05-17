@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nazev": "jbc",
+        "cislo": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.168857574462892,
+          50.73124000713507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400080",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "nazev": "lbc",
+        "cislo": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.07667541503906,
+          50.77305334702715
+        ]
+      }
+    }
+  ]
+}
